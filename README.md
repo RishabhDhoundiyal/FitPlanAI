@@ -28,6 +28,9 @@ FitPlanAI is a web application that helps users create personalized meal plans, 
   - results-dashboard.tsx – Displays results
 - components/ui/ – Prebuilt UI components from shadcn/ui
 
+# Vision
+The vision of FitPlanAI is to create an intelligent digital fitness companion that makes personalized health and wellness accessible to everyone. By combining smart planning, adaptive strategies, and future AI-powered insights, FitPlanAI aims to guide individuals in achieving their fitness goals while promoting long-term consistency, balance, and overall well-being.
+
 
 # Author
 [Rishabh Dhoundiyal](https://github.com/RishabhDhoundiyal)
